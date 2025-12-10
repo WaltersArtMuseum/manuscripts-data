@@ -1,0 +1,26 @@
+<manuscript>
+  <shelfmark>W.87</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="80v">1r - 80v</locus>
+      <title type="work">Hours of the Virgin</title>
+      <note type="contents">Use unidentifiable; text incomplete and misbound; content reconstructed by Judith Oliver as follows: fols. 2-4, 1, 28, and 71: Matins; fols. 38-40: Lauds; fol. 5: Prime (?); fols. 8, 7, 10, and 29r-v: Terce, , ending with rubric for Sext; fols. 25, and 33: None; fols. 52, 58, 53-56: Vespers; fols. 75-79, 80r-v: Compline</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="87r" to="112r">87r - 112r</locus>
+      <title type="work">Office of the Dead</title>
+      <note type="contents">Fols. 81r-83r: Psalm 6; fols. 83v, 86r-v: Psalm 12; fols. 84r-v: Psalm 66; fols. 85r-v: Psalm 149; fols. 87r-88v: Lesson 1; fols. 88v-90r: Lesson 2; fols. 90r-98r: Lesson 3; fols. 98r-v: Lesson 4; gap after fol. 98v; fols. 99r-v: end of Lesson 5; fols. 99v-112r: Lesson 6</note>
+    </chapter>
+    <chapter n="3">
+      <locus from="112v" to="112v">112v - 112v</locus>
+      <title type="work">Communion Prayer</title>
+      <note type="contents">Early addition: communion prayer, French translation of "Dominus non sum dignus"</note>
+    </chapter>
+    <chapter n="4">
+      <locus from="154r" to="158v">154r - 158v</locus>
+      <title type="work">Litany</title>
+      <incipit xml:lang="lat">Kyrie eleyson</incipit>
+      <note type="contents">Incomplete; Litany of the Saints lacks the end of the petitions and collects (after fol. 158v); Litany has a slight Cluniac bias, including Pancras and Maiolus as the last two of 31 confessors. Many Norman and Breton saints including Taurinus (7), Audoen (13), Romanus (14), Paternus (15), Machutus (18), Melanius (19), Maurilius (20), Philibert (24) Wandregisil (25), Ansbert (26)</note>
+    </chapter>
+  </chapters>
+</manuscript>

@@ -1,0 +1,45 @@
+<manuscript>
+  <shelfmark>W.79</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="5v">1r - 5v</locus>
+      <title type="work">Calendar</title>
+      <note type="contents">Incomplete: lacking September/October; Sarum use, with the exception of Winwaloe (March 3); half-full, graded blue, red, and gold</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="12r" to="147v">12r - 147v</locus>
+      <title type="work">Psalms</title>
+      <incipit xml:lang="lat">Dominus dixit ad me (Psalm 2:7)</incipit>
+      <note type="contents">Incomplete; begins Psalm 2:7, lacks 20-21:6, 24:21-26:1. 36:2-38:5, 9:15-81:11, 85:14-87:8. 108:24-109:7, 113:9-114:1, 147:17-150</note>
+    </chapter>
+    <chapter n="3">
+      <locusGrp>
+        <locus from="6r" to="11v">6r - 11v</locus>
+        <locus from="148r" to="154r">148r - 154r</locus>
+      </locusGrp>
+      <title type="work">Canticles</title>
+      <incipit xml:lang="lat">...haurietis aquas in gaudio (Isaiah 12:3), fol. 148</incipit>
+      <note type="text">Incomplete and misbound, the canticles originally clearly followed the psalms; fols. 6r-11v originally placed between fols. 151 and 152; lacks Magnificat and Nunc dimittis, and parts of Canticle of Isaiah, Benedictus Quicumque vult; Contents: Confitebor tibi (partial, only Isaiah 12:3-6, fol. 148r), Ego dixi in dimidio (Isaiah 38: 10-20, fols. 148r-149r), Exultavit cor meum (I Samuel 2:1-10, fols. 149r-149v), Cantemus domino (Exodus 15: 1-19, fols. 150r-151r), Domine audivi (Habacuc 3:2-19, fols. 151r-151v, 6r-7r), Audite caeli (Deuteronomy 32:1-43, fols. 7r-10v), Te deum (fols. 10v-11v), and Benedicite (Daniel 3:57-88, fols 11v, 152r-152v), Benedictus (partial, only Luke 1: 68-72, fol. 152v), Quicumque vult (partial only fols. 153r-154r)</note>
+    </chapter>
+    <chapter n="4">
+      <locus from="154r" to="158v">154r - 158v</locus>
+      <title type="work">Litany</title>
+      <incipit xml:lang="lat">Kyrie eleyson</incipit>
+      <note type="contents">Incomplete; Litany of the Saints lacks the end of the petitions and collects (after fol. 158v); Litany has a slight Cluniac bias, including Pancras and Maiolus as the last two of 31 confessors. Many Norman and Breton saints including Taurinus (7), Audoen (13), Romanus (14), Paternus (15), Machutus (18), Melanius (19), Maurilius (20), Philibert (24) Wandregisil (25), Ansbert (26)</note>
+    </chapter>
+    <chapter n="5">
+      <locus from="159r" to="191r">159r - 191r</locus>
+      <title type="work">Office of the Dead</title>
+      <rubric xml:lang="lat">In vigilia mortuorum</rubric>
+      <incipit xml:lang="lat">Dilexi quoniam exaudiet Dominus</incipit>
+      <note type="contents">Use of Sarum; square musical notation on four red staves for antiphons, responses, and versicles, each beginning with a Lombard capital</note>
+    </chapter>
+    <chapter n="6">
+      <locus from="192r" to="193r">192r - 193r</locus>
+      <title type="work">Additional Prayers</title>
+      <rubric xml:lang="lat">De Sancto Anthonio</rubric>
+      <incipit xml:lang="lat">Anthoni sancte pater salutaris</incipit>
+      <note type="contents">Prayers to SS. Anthony, Adrian, and Sebastian added by a fifteenth-century owner</note>
+    </chapter>
+  </chapters>
+</manuscript>

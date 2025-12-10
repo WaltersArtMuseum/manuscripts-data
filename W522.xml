@@ -1,0 +1,20 @@
+<manuscript>
+  <shelfmark>W.522</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="2r" to="3v">2r - 3v</locus>
+      <title type="work">Letter from Eusebius to Carpianus</title>
+      <author Eusebius of Caesarea
+      <author />
+    </chapter>
+    <chapter n="2">
+      <locus from="4v" to="9r">4v - 9r</locus>
+      <title type="work">Canon tables</title>
+    </chapter>
+    <chapter n="3">
+      <locus from="9v" to="291v">9v - 291v</locus>
+      <title type="work">Gospels</title>
+      <note type="contents">Fols. 9v-10r: Preface to the Gospel of Matthew; fols. 10r-11r: Chapters list for the Gospel of Matthew; fols. 12r-87v: Gospel of Matthew; fols. 87r-88r: Preface to the Gospel of Mark; fols. 88r-89r: Chapters list for the Gospel of Mark; fols. 90r-138r: Gospel of Mark; fols. 138r-139r: Preface to the Gospel of Luke; fols. 139r-140v: Chapters list for the Gospel of Luke; fols. 142r-228r: Gospel of Luke; fols. 228r-229r: Preface to the Gospel of John; fols. 229v-230r: Chapters list for the Gospel of John; fol. 230r: Verses in praise of the Evangelist John; fols. 231r-291v: Gospel of John incomplete, ends with John 21:3</note>
+    </chapter>
+  </chapters>
+</manuscript>

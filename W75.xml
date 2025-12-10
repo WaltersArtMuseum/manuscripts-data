@@ -1,0 +1,40 @@
+<manuscript>
+  <shelfmark>W.75</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="159v">1r - 159v</locus>
+      <title type="work">Temporale</title>
+      <rubric xml:lang="lat">Dominica I de adventu</rubric>
+      <incipit xml:lang="lat">Sequentia sancti evangelii</incipit>
+    </chapter>
+    <chapter n="2">
+      <locus from="160r" to="171r">160r - 171r</locus>
+      <title type="work">Ordinary of the Mass</title>
+    </chapter>
+    <chapter n="3">
+      <locus from="171r" to="182r">171r - 182r</locus>
+      <title type="work">Proprium de Sanctis</title>
+    </chapter>
+    <chapter n="4">
+      <locus from="182v" to="244r">182v - 244r</locus>
+      <title type="work">Sanctorale</title>
+    </chapter>
+    <chapter n="5">
+      <locus from="244r" to="255v">244r - 255v</locus>
+      <title type="work">Commune Sanctorum</title>
+    </chapter>
+    <chapter n="6">
+      <locus from="255v" to="278v">255v - 278v</locus>
+      <title type="work">Special Masses</title>
+    </chapter>
+    <chapter n="7">
+      <locus from="279r" to="279v">279r - 279v</locus>
+      <title type="work">Mass for the Holy Sacrament</title>
+    </chapter>
+    <chapter n="8">
+      <locus from="280r" to="285v">280r - 285v</locus>
+      <title type="work">Calendar (slightly later addition?)</title>
+      <note type="contents">Calendar half-full on average, graded in red and black ink; saints of note include St. Nicolas (translation, May 9), St. Rufinus (Aug. 11); many names added, and some later erased but visible through UV light - each page had about a dozen erasures, with most commemorating the dates of deaths of members of the parish in Assisi; added names include St. Clare (Aug. 12) and Obit. for Bishop Guido (d. July 30, 1228); St. Francis (Oct. 4) added but later erased</note>
+    </chapter>
+  </chapters>
+</manuscript>

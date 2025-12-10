@@ -1,0 +1,20 @@
+<manuscript>
+  <shelfmark>W.20</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="5v">1r - 5v</locus>
+      <title type="work">Gloss attributed to William of Conches</title>
+      <incipit xml:lang="lat">Semper ego etcetera. In ista prima satyra agit iuuenalis duo; in principio reprehendit poetas inutiliter scribentes; deinde ostendit quare plus hoc genus carminis scribat quam aliud.</incipit>
+      <author William of Conches
+      <author />
+    </chapter>
+    <chapter n="2">
+      <locus from="1r" to="55v">1r - 55v</locus>
+      <title type="work">Satires</title>
+      <title type="work-vernacular" xml:lang="lat">Satirae</title>
+      <incipit xml:lang="lat">Semper ego auditor tantum nunquamne reponam Vexatus toties rauci theseide codri.</incipit>
+      <author Juvenal
+      <author />
+    </chapter>
+  </chapters>
+</manuscript>
