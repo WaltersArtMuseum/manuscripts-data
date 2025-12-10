@@ -2,15 +2,15 @@
   <shelfmark>W.478</shelfmark>
   <chapters>
     <chapter n="1">
-      <locus from="2v" to= ”3v">2v - 3v</locus>
-<title type=" work”>Tavola dele cose scripte in questo libro
+      <locus from="2v" to="3v">2v - 3v</locus>
+      <title type="work">Tavola dele cose scripte in questo libro
       </title>
       <rubric xml:lang="ita">Tavola dele cose scripte in questo libro</rubric>
       <incipit xml:lang="ita">Savon liquido napolitan</incipit>
       <note type="contents">List of the different remedies found in the text</note>
     </chapter>
     <chapter n="2">
-      <locus from="4r" to= ”5r”>4r - 5r</locus>
+      <locus from="4r" to="5r">4r - 5r</locus>
       <title type="work">Epylogo</title>
       <rubric xml:lang="ita">Epylogo</rubric>
       <incipit xml:lang="ita">Tutte le cose che dala natura in questo inferior mondo</incipit>
