@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
   <shelfmark>W.10</shelfmark>
-  <chapters>
+  <chapters> jf
     <chapter n="1">
       <locus from="2r" to="6r">1r - 6r</locus>
       <title type="work">Calendar</title>
