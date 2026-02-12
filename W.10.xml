@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.10</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="2r" to="6r">1r - 6r</locus>
+      <title type="work">Calendar</title>
+      <rubric xml:lang="lat">Aprilis habet dies xxx. Luna xxviiii</rubric>
+      <note type="contents">Calendar for April through December (first three months lacking); calendar is full; major feasts in gold; three saints (Modoaldus, Vitus, Martinus) in gold; Egyptian days and zodiacal notes in red; other text in brown ink</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="6v" to="111v">6v - 111v</locus>
+      <title type="work">Liturgical psalter</title>
+      <incipit xml:lang="lat">Beatus vir</incipit>
+      <note type="contents">Tripartite psalter, with divisions at Psalms 1, 51, and 101; Psalm 109 added</note>
+    </chapter>
+    <chapter n="3">
+      <locus from="111v" to="121v">111v - 121v</locus>
+      <title type="work">Canticles, hymns, and creeds</title>
+      <rubric xml:lang="lat">Canticum Ysaiae</rubric>
+      <incipit xml:lang="lat">Confitebor tibi</incipit>
+    </chapter>
+    <chapter n="4">
+      <locus from="121v" to="124r">121v - 124r</locus>
+      <title type="work">Litany, petitions, and collects</title>
+      <incipit xml:lang="lat">Kyrieleyson</incipit>
+      <note type="contents">Fols. 121v-122v: Litany, contents suggest use in Helmarshausen or Trier, containing eighteen martyrs; twelve confessors including Modoaldus and Remaclus; thirteen virgins; fols. 122v-123v: petitions; fols. 123v-124r: five collects</note>
+    </chapter>
+    <chapter n="5">
+      <locus from="124r" to="126v">124r - 126v</locus>
+      <title type="work">Minor office of the dead</title>
+      <incipit xml:lang="lat">Placebo domino</incipit>
+      <note type="contents">Ends imperfectly in the middle of an antiphon for lauds "venit ad me non eiciam..."</note>
+    </chapter>
+  </chapters>
+</manuscript>
