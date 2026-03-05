@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.21</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="1v">1r - 1v</locus>
+      <title type="work">Added medical recipes and notation on classical coinage</title>
+      <note type="contents">Contains Latin and Spanish medical recipes; information on classical Greek and Roman coinage</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="2r" to="36v">2r - 36v</locus>
+      <title type="work">Solinus, Collectanea rerum mirabilium sive Polyhistoria</title>
+      <rubric xml:lang="lat">Iulii Solini grammatici polyhistor ab ipso editus</rubric>
+      <incipit xml:lang="lat">Quoniam quidem impatientius potius quam</incipit>
+      <author>Iulii Solini</author>
+    </chapter>
+    <chapter n="3">
+      <locus from="36v" to="39v">36v - 39v</locus>
+      <title type="work">Orosius, Historia adversus paganos (excerpt)</title>
+      <rubric xml:lang="lat">Incipit Orosius de situ orbis</rubric>
+      <incipit xml:lang="lat">Maiores nostri orbem totius terre</incipit>
+      <note type="contents">This excerpt contains the geographical treatise from the first chapter of the "Historia"</note>
+      <note type="text">An addition contemporary to the manuscript is found on fol. 29v: lines 28-41</note>
+      <author>Orosius, Paulus</author>
+    </chapter>
+    <chapter n="4">
+      <locus from="40r" to="43v">40r - 43v</locus>
+      <title type="work">Pseudo-Alexander, Epistola regis Macedonum ad Dindimum regem Bragmanorum (excerpt)</title>
+      <rubric xml:lang="lat">Epistola alexandri Regis macedonum ad dindimum Regem bragmanorum</rubric>
+      <incipit xml:lang="lat">Sepius ad aures meas fando</incipit>
+      <author>Alexandri</author>
+    </chapter>
+    <chapter n="5">
+      <locus from="43v" to="49r">43v - 49r</locus>
+      <title type="work">Pseudo-Alexander, Epistola Alexandri Regis Macedonum ad Aristotilem magistrum (excerpt)</title>
+      <rubric xml:lang="lat">Incipit epistola alexandri Regis macedonum</rubric>
+      <incipit xml:lang="lat">Semper memor tui etiam</incipit>
+      <note type="contents">Fols. 48v-49r: considerable annotations contemporary to the manuscript</note>
+      <author>Alexandri</author>
+    </chapter>
+    <chapter n="6">
+      <locus from="49r" to="57r">49r - 57r</locus>
+      <title type="work">Pseudo-Alexander, Res Gestae Alexandri Macedonis (excerpt)</title>
+      <rubric xml:lang="lat">Incipiunt gesta alexandri regis macedonum</rubric>
+      <incipit xml:lang="lat">Egypti sapientes sati divino</incipit>
+      <note type="contents">Text encompasses variant readings and omissions; lacks portions of I.7, I.9 and completely without I.12</note>
+      <author>Alexandri</author>
+    <chapter n="7">
+      <locus from="57r" to="59v">57r - 59v</locus>
+      <title type="work">Justinus, Epitome in libros Pompei Trogi (excerpt)</title>
+      <rubric xml:lang="lat">Incipiunt gesta alexandri magni. Excepta de trogo pompeio</rubric>
+      <incipit xml:lang="lat">In exercitu philippi sicut uarie</incipit>
+      <author>Justinus, Marcus Junianus</author>
+    <chapter n="8">
+      <locus from="59v" to="59v">59v - 59v</locus>
+      <title type="work">Walter of Châtillon, Alexandreis (excerpt)</title>
+      <incipit xml:lang="lat">Si lis inciderit te iudice dirige libra</incipit>
+      <note type="contents">Addition of fourteen lines contemporary to the manuscript</note>
+      <author>Walter of Châtillon</author>
+    <chapter n="9">
+      <locus from="60r" to="60v">60r - 60v</locus>
+      <title type="work">Added medical recipes in Spanish</title>
+      <note type="contents">Spanish medical recipes for various ailments</note>
+    </chapter>
+  </chapters>
+</manuscript>
