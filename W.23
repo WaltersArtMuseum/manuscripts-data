@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.23</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="146r">1r - 146r</locus>
+      <title type="work">Psalter</title>
+      <incipit xml:lang="lat">Beatus vir</incipit>
+    </chapter>
+    <chapter n="2">
+      <locus from="146r" to="152v">146r - 152v</locus>
+      <title type="work">Office of the Dead</title>
+      <note type="contents">Fol. 146v: Redemptor meus; fol. 147r: Requiem eternam; fol. 147v: Absolve domine; fol. 148r: Rogamus te; fol. 148v: Memento queso; fols. 148v-149r: Ne tradas; fol. 149v: Quomodo confitebor; fol. 150r: Deus eterne; fol. 150v: Libera me</note>
+    </chapter>
+  </chapters>
+</manuscript>
