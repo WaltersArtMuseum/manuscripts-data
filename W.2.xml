@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.2</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="1r">1r - 1r</locus>
+      <title type="work">Title page and table of contents</title>
+      <incipit xml:lang="lat">Liber de opere monachorum</incipit>
+      <note type="contents">Added leaf with title and table of contents written in a thirteenth- or fourteenth-century hand; additional note below others added in the fifteenth or sixteenth century: "Item Acta sancti Augustini contra Fortunatum in modu dialogi"</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="1rbis" to="1rbis">1rbis - 1rbis</locus>
+      <title type="work">Illuminated title page</title>
+      <note type="contents">Decorative title page added in late nineteenth or early twentieth century at time of rebinding</note>
+    </chapter>
+    <chapter n="3">
+      <locus from="2r" to="24r">2r - 24r</locus>
+      <title type="work">De opere monachorum</title>
+      <rubric xml:lang="lat">Incipit de opere monachorum.</rubric>
+      <incipit xml:lang="lat">Iussioni tuae sancte pater aureli</incipit>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="4">
+      <locus from="24v" to="24v">24v - 24v</locus>
+      <title type="work">In Iohannis epistulam ad Parthos 1.12 (excerpt)</title>
+      <rubric xml:lang="lat">LXVIII Quaestiones Augustini.</rubric>
+      <incipit xml:lang="lat">Qui diligit fratrem suum in lumine manet</incipit>
+      <note type="contents">Excerpt of text, on lines 1-13, ending with "...in unitate caritatis est fraterna dilectio."</note>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="5">
+      <locus from="24v" to="24v">24v - 24v</locus>
+      <title type="work">De genesi ad litteram, X, v, 8 (excerpt)</title>
+      <rubric xml:lang="lat">Augustinus liber X [de] genesi.</rubric>
+      <incipit xml:lang="lat">Neque enim etiam flatus ille</incipit>
+      <note type="contents">Excerpt of text, on lines 14-16, ending with "...flatus ipse processit."</note>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="6">
+       <locus from="24v" to="24v">24v - 24v</locus>
+       <title type="work">Contra adversarium legis et prophetarum libri duo, I, xiv, 18 (excerpt)</title>
+       <rubric xml:lang="lat">Item Augustinus.</rubric>
+       <incipit xml:lang="lat">Dictum est cum laude de domino</incipit>
+       <note type="contents">Excerpt of text, on lines 16-20, ending with "...non nouerat per experientiam."</note>
+       <author>St. Augustine</author>
+    </chapter>
+    <chapter n="7">
+      <locus from="24v" to="25r">24v - 25r</locus>
+      <title type="work">Sermo CLVI (excerpts)</title>
+      <rubric xml:lang="lat">Item Augustinus.</rubric>
+      <incipit xml:lang="lat">Iam nunc cum audistis</incipit>
+      <note type="contents">Two different excerpts from same text; Sermo CLVI, xii, 13: lines 20 (fol. 24v)-1 (fol. 25r), ending with "...sed miserentis dei est"; Sermo CLVI, xiv, 15 through xv, 16: lines 1-5 (fol. 25r), beginning with "Sed accepistis spiritum..." and ending with "...spiritui nostro quia sumus filii dei."</note>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="8">
+       <locus from="25r" to="25v">25r - 25v</locus>
+       <title type="work">Liber de spiritu sancto interprete Hieronymo (excerpts)</title>
+       <rubric xml:lang="lat">Ex didimo.</rubric>
+       <incipit xml:lang="lat">Nam eundem evangelii locum Matheus Lucas describens</incipit>
+       <note type="contents">Many small excerpts beginning on fol. 25r, line 5, and ending on fol. 25v, line 27; excerpts are, as found in Migne, Patrologia Græca 39: 1035 D 3 - 1036 A 8; 1037 A 1-4, B 7-13, C 2-7, 10-12; 1040 A 6-15; 1060 B 7-13; 1060 B 15 - 1061 B 2; 1062 A 15 - B 5; 1063 A 7-8; 1066 A 9-10; 1082 C 10-15; 1083 A 1-D 1</note>
+        <author>Didymos, Alexandreus</author>
+    </chapter>
+    <chapter n="9">
+      <locus from="26r" to="53v">26r - 53v</locus>
+      <title type="work">De Genesi contra Manichaeos</title>
+      <rubric xml:lang="lat">Primus liber exameron sancti augustini in genesi incipit.</rubric>
+      <incipit xml:lang="lat">Si legerent manichei quos deciperent</incipit>
+      <note type="contents">Full text of De Genesi; fols. 26r-39r: Book I; fols. 39r-53v: Book II</note>
+      <note type="text">Explicit on fol. 53v appears to be scrambled, and small letters above each word seem to indicate correct word order</note>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="10">
+      <locus from="54r" to="54r">54r - 54r</locus>
+      <title type="work">Anonymous text I</title>
+      <rubric xml:lang="lat">Responsiones contra hereticorum inpugnationes quas contra libros augustini de praedestinatis opposverunt incipiunt.</rubric>
+      <incipit xml:lang="lat">Ecce corporea exempla</incipit>
+    </chapter>
+    <chapter n="11">
+      <locus from="54v" to="60v">54v - 60v</locus>
+      <title type="work">Anonymous text II</title>
+      <rubric xml:lang="lat">Faciamus hominem ad imaginem et similitudinem nostram.</rubric>
+      <incipit xml:lang="lat">Imago dei est in homine</incipit>
+      <note type="contents">Text is divided into thirty-three smaller parts, each with a title</note>
+    </chapter>
+    <chapter n="12">
+      <locus from="60v" to="60v">60v - 60v</locus>
+      <title type="work">Distych referring to Charles the Bald</title>
+      <note type="contents">The distych is found on lines 23-24, and reads: PERLEGE REX SAPIENS. SOPHIAE PIA DOGMATA SANCTAE/SICQUE FIDEM FIRMA PECTORE ET ORE TUO.</note>
+      <note type="text">A note in the Walters file by Bernard Bischoff suggests this is a reference to Charles the Bald (see also Jeauneau, 1982, in bibliography)</note>
+    </chapter>
+    <chapter n="13">
+      <locus from="61r" to="79v">61r - 79v</locus>
+      <title type="work">Adversus quinque haereses</title>
+      <rubric xml:lang="lat">Augustini contra quinque hereses.</rubric>
+      <incipit xml:lang="lat">Debitor sum fratres fateor non necessitate</incipit>
+      <author>Quodvultdeus, Bishop of Carthage</author>
+    </chapter>
+    <chapter n="14">
+      <locus from="80r" to="93v">80r - 93v</locus>
+      <title type="work">De duabus animabus</title>
+      <rubric xml:lang="lat">Incipit liber aurelii augustini de duabus animabus.</rubric>
+      <incipit xml:lang="lat">Opitulante dei misericordia</incipit>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="15">
+      <locus from="93v" to="106r">93v - 106r</locus>
+      <title type="work">Contra Fortunatum</title>
+      <rubric xml:lang="lat">Incipit Augustini presbyteri catholici [contra Fortunatum (an early addition)]</rubric>
+      <incipit xml:lang="lat">Quintas kalendas septembris, Archadio Augusto</incipit>
+      <author>St. Augustine</author>
+    </chapter>
+    <chapter n="16">
+      <locus from="106v" to="106v">106v - 106v</locus>
+      <title type="work">Psalm 18.2</title>
+      <note type="contents">The same text was added in the tenth or eleventh century, three times by three hands: "celi enarrant gloriam dei"; two versions include musical notation</note>
+    </chapter>
+  </chapters>
+</manuscript>
