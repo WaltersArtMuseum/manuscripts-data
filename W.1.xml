@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.1</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locusGrp>
+        <locus from="1r" to="32v">1r - 32v</locus>
+        <locus from="41r" to="48v">41r - 48v</locus>
+        <locus from="33r" to="36r">33r - 36r</locus>
+      </locusGrp>
+      <title type="work">Gospel of St. Matthew</title>
+      <incipit xml:lang="lat">Incipit Evangelium secundum liber generationis Ihesu Xristi, filii David, filii Abraham</incipit>
+    </chapter>
+    <chapter n="2">
+      <locusGrp>
+        <locus from="36r" to="40r">36r - 40r</locus>
+        <locus from="49r" to="72v">49r - 72v</locus>
+      </locusGrp>
+      <title type="work">Prologue and Book of St. Mark</title>
+      <incipit xml:lang="lat">Marcus Evangelista Dei, et Patri in baptismate</incipit>
+      <note type="contents">Fols. 36r-v: Prologue to Mark; fols. 36v-38r: Chapter list, termed "Breviarium;" fols. 39r-72v: Gospel of St. Mark</note>
+    </chapter>
+    <chapter n="3">
+      <locus from="72v" to="122v">72v - 122v</locus>
+      <title type="work">Prologue and Book of St. Luke</title>
+      <incipit xml:lang="lat">Quoniam quidem</incipit>
+      <note type="contents">Fols. 72v-73r: Prologue to Luke, termed "Argumentum;" fols. 73v-77r: Chapter list, termed "Capitula;" fols. 78r-122v: Gospel of St. Luke</note>
+    </chapter>
+    <chapter n="4">
+     <locus from="122r" to="155v">122r - 155v</locus>
+     <title type="work">Prologue and Book of St. John</title>
+     <note type="contents">Fols. 122v-123v: Prologue to John, termed "Breviarius;" fols. 123v-124r: Chapter list, termed "Breviarius;" fols. 125r-155v: Gospel of St. John</note>
+    </chapter>
+    <chapter n="5">
+     <locus from="156r" to="167v">156r - 167v</locus>
+     <title type="work">List of pericopes for the liturgical year</title>
+     <rubric xml:lang="lat">Incipit capitulare</rubric>
+     <note type="contents">List of pericopes for the liturgical year, termed "Capitulare;" ends imperfectly with St. Theodore (Nov. 9)</note>
+    </chapter>
+  </chapters>
+</manuscript>
