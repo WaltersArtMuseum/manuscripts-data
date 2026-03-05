@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.7</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="8v">1r - 8v</locus>
+      <title type="work">Canon tables</title>
+      <rubric xml:lang="lat">Canon I in quo IIII</rubric>
+      <note type="text">Eusebian canon tables I-X</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="9v" to="202v">9v - 202v</locus>
+      <title type="work">Gospels</title>
+      <note type="contents">Contents: fol. 10r-v: Prologue to Matthew (Matheus ex Judea sicut [Stegmüller 590]); fols. 11r-14r: 29 chapter list to Matthew (Nativitas Christi magi cum muneribus); fols. 16r-64r: Matthew (Initium sancti Evangelii secundum Matheum); fol. 64r-v: Prologue to Mark (Marcus Evangelista Dei et Petri [Stegmüller 607]); fols. 64v-66r: 13 chapter list to Mark (De Iohanne Baptista et victu); fols. 68r-99v: Mark; fol. 101r-v: Prologue to Luke (Lucas syrus antiocensis arte medicus [Stegmüller 620]); fols. 102r-106v: 22 chapter list to Luke (Zacharias uiso angelo quia); fols. 108r-159r: Luke; fols. 159v-160r: Prologue to John (Hic est Iohannes Evangelista unus ex discipulus [Stegmüller 624]); fol. 160r-v: 13 chapter list to John (Phariseorum levitae interrogant); fols. 162-202v: John</note>
+    </chapter>
+  </chapters>
+</manuscript>
