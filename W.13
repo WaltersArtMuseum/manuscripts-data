@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.13</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1v" to="2r">1v - 2r</locus>
+      <title type="work">Preamble</title>
+      <incipit xml:lang="lat">In nomine Dei summi in subsequenti hoc libro</incipit>
+    </chapter>
+    <chapter n="2">
+      <locus from="2r" to="2v">2r - 2v</locus>
+      <title type="work">Preface</title>
+      <rubric xml:lang="lat">Incipit prefacio soli loguiorum sancti Ysidori episcopi</rubric>
+      <incipit xml:lang="lat">Venit nuper ad manus meas</incipit>
+    </chapter>
+    <chapter n="3">
+      <locus from="2v" to="70v">2v - 70v</locus>
+      <title type="work">Synonyma</title>
+      <rubric xml:lang="lat">Ysidorus archi episcopus hispane, hominis personam lamentatis in se assumit. Incipit liber Ysidori episcopi</rubric>
+      <incipit xml:lang="lat">Anima mea in angustiis est</incipit>
+      <author>Saint Isidore</author>
+    </chapter>
+  </chapters>
+</manuscript>
