@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.16</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="38r">1r - 38r</locus>
+      <title type="work">Psalms</title>
+      <incipit xml:lang="lat">...[taber]naculis iustorum dextera Domini fecit virtutem</incipit>
+      <note type="text">Text begins imperfectly at the very end of Psalm 117:15; stubs visible between fols. 13 and 14, 19 and 20, 24 and 25, 33 and 34, however no text is missing</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="38r" to="55r">38r - 55r</locus>
+      <title type="work">Canticles</title>
+      <incipit xml:lang="lat">Confitebor tibi</incipit>
+    </chapter>
+    <chapter n="3">
+      <locus from="55r" to="57v">55r - 57v</locus>
+      <title type="work">Litany and collects</title>
+      <incipit xml:lang="lat">Kyrie eleyson</incipit>
+      <note type="text">Notable in the litany: SS. Burchardus, Udalricus, and Pinnosa</note>
+    </chapter>
+    <chapter n="4">
+      <locus from="58r" to="61r">58r - 61r</locus>
+      <title type="work">Office of the Dead</title>
+      <rubric xml:lang="lat">Vigilia.</rubric>
+      <incipit xml:lang="lat">Verba mea auribus percipe</incipit>
+      <note type="text">Fragmentary</note>
+    </chapter>
+    <chapter n="5">
+      <locus from="61r" to="61v">61r - 61v</locus>
+      <title type="work">Collects</title>
+      <rubric xml:lang="lat">In depositione defunctorum oratio.</rubric>
+      <incipit xml:lang="lat">Quesumus domine</incipit>
+      <note type="text">Text ends imperfectly</note>
+    </chapter>
+  </chapters>
+</manuscript>
