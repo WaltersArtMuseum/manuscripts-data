@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.9</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="332r">1r - 332r</locus>
+      <title type="work">Gospel and Epistle readings</title>
+      <rubric xml:lang="lat">Lectio epistolae beati Pauli apostoli ad Romanos</rubric>
+      <incipit xml:lang="lat">Paulus servus Christi Iesu vocatus apostolus</incipit>
+      <note type="contents">Temporal (feasts of Christ) and Sanctoral (feasts of the saints) are combined; full text of the Epistle readings; incipits are provided only for Gospel readings</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="332r" to="338v">332r - 338v</locus>
+      <title type="work">Common of the saints</title>
+      <rubric xml:lang="lat">In vigilia omnium apostolorum. Lectio libri sapientiae</rubric>
+      <incipit xml:lang="eng">Beatus vir qui inventus est sine macula</incipit>
+    </chapter>
+    <chapter n="3">
+      <locus from="338v" to="360r">338v - 360r</locus>
+      <title type="work">Lections for votive masses</title>
+    </chapter>
+    <chapter n="4">
+      <locus from="360r" to="361v">360r - 361v</locus>
+      <title type="work">Added lections for masses</title>
+      <rubric xml:lang="lat">Lectio libri Apocalipsis. Iohannis apostoli</rubric>
+      <incipit xml:lang="lat">In diebus illis vidit civitatem sanctam</incipit>
+      <note type="contents">Texts added in the eleventh century: fol. 360r: Apoc. 21:2-5, dedication of a church; fol. 360v: Mal. 3:1-4, purification of the Virgin; fols. 361r-v: 2 Cor. 3:4-9, week 13 after Pentecost</note>
+    </chapter>
+  </chapters>
+</manuscript>
