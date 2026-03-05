@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.8</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="208r">1r - 208r</locus>
+      <title type="work">Temporale and Sanctorale</title>
+      <rubric xml:lang="lat">Sequentia sancti evangelii secundum Matheum. In illo tempore.</rubric>
+      <incipit xml:lang="lat">Cum esset desponsa</incipit>
+    </chapter>
+    <chapter n="2">
+      <locus from="208r" to="220v">208r - 220v</locus>
+      <title type="work">Common of Saints</title>
+    </chapter>
+    <chapter n="3">
+      <locus from="222r" to="223v">222r - 223v</locus>
+      <title type="work">Gospel readings for non-proper feriae</title>
+    </chapter>
+    <chapter n="4">
+      <locus from="223v" to="225v">223v - 225v</locus>
+      <title type="work">Readings for votive masses</title>
+    </chapter>
+    <chapter n="5">
+      <locus from="227r" to="228v">227r - 228v</locus>
+      <title type="work">Readings for the office of the dead</title>
+    </chapter>
+  </chapters>
+</manuscript>
