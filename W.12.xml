@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.12</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="2r">1r - 2r</locus>
+      <title type="work">Prologue</title>
+      <incipit xml:lang="lat">… indiget artis opis sic et res publica felix</incipit>
+      <note type="text">Begins imperfectly</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="2r" to="4r">2r - 4r</locus>
+      <title type="work">Chapter list</title>
+      <rubric xml:lang="lat">Incipiunt capitula</rubric>
+      <incipit xml:lang="lat">De eo quod pium rectorem</incipit>
+      <note type="text">Complete; list of twenty chapters (unnumbered)</note>
+    </chapter>
+    <chapter n="3">
+      <locus from="4v" to="116v">4v - 116v</locus>
+      <title type="work">De rectoribus Christianis</title>
+      <rubric xml:lang="lat">Incipit liber de rectoribus Christianis et regulis quibus est res publica rite gubernanda</rubric>
+      <incipit xml:lang="lat">Postquam regale sceptrum regnique gubernacula</incipit>
+      <note type="text">Incomplete; missing last folio</note>
+    </chapter>
+    <chapter n="4">
+      <locus from="117r" to="117v">117r - 117v</locus>
+      <title type="work">Hymn</title>
+      <incipit xml:lang="lat">[O] quam felices per te sanctissima</incipit>
+      <note type="text">Fragment; thirteenth-century hymn reused as a pastedown, with neumes on a five-line staff; text on recto from the Office of Matins for St. Catherine; text on verso unknown</note>
+    </chapter>
+  </chapters>
+</manuscript>
