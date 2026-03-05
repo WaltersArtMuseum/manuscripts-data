@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.15</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="2v">1r - 2v</locus>
+      <title type="work">Sermons</title>
+      <incipit xml:lang="lat">Spirituum societas reparatur</incipit>
+      <note type="contents">Peter Damian, sermon 47; Bernard of Clairvaux, sermon 62; Peter Damian, sermon 9, 48, and sermon on John</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="3r" to="256r">3r - 256r</locus>
+      <title type="work">Gospels</title>
+      <incipit xml:lang="lat">Nomen libri evangelium grece bonum nuncium</incipit>
+      <note type="contents">Fols. 3r-4v: preface to Matthew; fols. 5r-5v: glossed prologue to Matthew; fols. 5v-79r: glossed Matthew; fols. 82r-82v: glossed prologue to Mark; fols. 83r-135r: glossed Mark; fol. 125v: preface to Luke; fols. 126r-204v: incomplete text of Luke (it begins with Luke 1:9); fols. 210r-256r: glossed John</note>
+    </chapter>
+    <chapter n="3">
+      <locus from="79v" to="81v">79v - 81v</locus>
+      <title type="work">Canon law formularies</title>
+      <incipit xml:lang="lat">H. dei gratia abbas illius loci B. clerico salutem</incipit>
+      <note type="contents">Law formularies; references to Oxford and its churches (St. Frideswide, St. Peter, Mary, Oseney, and Thame); dates 1193, 1194, 1199, and 1203; Kings Richard and John as well as Pope Innocent III are mentioned</note>
+      <note type="text">Between the Gospels of Matthew and Mark, there are five folios with law formularies, which contain models for letters, sentences, donations, etc.; formularies are integral to the quire containing the end of the text of Matthew</note>
+    </chapter>
+    <chapter n="4">
+      <locus from="205r" to="209v">205r - 209v</locus>
+      <title type="work">Sermons for the liturgy</title>
+      <rubric xml:lang="lat">Die natali domini</rubric>
+      <incipit xml:lang="lat">Hodie fratres karissimi redemptor noster ad nos venit</incipit>
+      <note type="contents">Sermons for Christmas day, Easter, Pentecost, and the beginning of Lent</note>
+    </chapter>
+  </chapters>
+</manuscript>
