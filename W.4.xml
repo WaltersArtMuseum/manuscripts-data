@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.4</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1v" to="18v">1v - 18v</locus>
+      <title type="work">List of readings for the liturgical year</title>
+      <rubric xml:lang="lat">Incipiunt capitula lectionum Evangelii anni circuli</rubric>
+      <incipit xml:lang="lat">In vigilia natalis domini secundum Matheum</incipit>
+    </chapter>
+    <chapter n="2">
+      <locus from="18v" to="20r">18v - 20r</locus>
+      <title type="work">Prologue to the Gospels</title>
+      <rubric xml:lang="lat">Incipit prologus iiii evangeliorum</rubric>
+      <incipit xml:lang="lat">Plures fuisse [Stegmüller 596]</incipit>
+      <author>Saint Jerome</author>
+    </chapter>
+    <chapter n="3">
+      <locus from="20r" to="21v">20r - 21v</locus>
+      <title type="work">Epistle to Damasus (Novum opus)</title>
+      <rubric xml:lang="lat">Incipit Epistola Sancti Hieronimi</rubric>
+      <incipit xml:lang="lat">Beatissimo Papae Damaso Hieronimus novum opus [Stegmüller 595]</incipit>
+      <author>Saint Jerome</author>
+    </chapter>
+    <chapter n="4">
+      <locus from="21v" to="23v">21v - 23v</locus>
+      <title type="work">Seventy-four chapter list to the Gospel of Matthew</title>
+      <rubric xml:lang="lat">Incipiunt capitula secundum Mattheum</rubric>
+      <incipit xml:lang="lat">De generatione Christi</incipit>
+    </chapter>
+    <chapter n="5">
+      <locus from="24v" to="32v">24v - 32v</locus>
+      <title type="work">Canon tables</title>
+      <rubric xml:lang="lat">Canon I in quo quattuor</rubric>
+      <note type="text">Section comprised of Eusebian canon tables I-X spread over eight folios</note>
+    </chapter>
+    <chapter n="6">
+      <locus from="33r" to="215v">33r - 215v</locus>
+      <title type="work">Gospels</title>
+      <note type="contents">Contents: fol. 33r: Incipit prologus secundum Mattheum (Mattheus ex Iudaea sicut in ordine primus ponitur [Stegmüller 590]); fols. 34r-89v: Matthew; fol. 91r-v: Incipit prologus secundum Marcum (Marcus Evangelista Dei electus [Stegmüller 607]); fols. 92r-93r: Incipiunt capitula (De Iohanne et de victu); fols. 93v-125r: Mark; fol. 125v: Incipit argumentum secundum Lucam (Lucas syrus antiochensis, arte medicus [Stegmüller 615]); fols. 127r-130v: Incipiunt capitula secundum Lucam (Zacharias viso angelo); fols. 131r-178r: Luke; fol. 179r-v: Incipit prologus (Iohannes Evangelista unus ex discipulis Dei [Stegmüller 624]); fols. 179v-180r: Incipit elencus brevis Evangelii secundum Iohannem (Phariseorum levitae); fols. 180v-215v: John</note>
+      <note type="text">Ammonian sections marked in margins of text throughout</note>
+    </chapter>
+  </chapters>
+</manuscript>
