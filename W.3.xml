@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manuscript xmlns="http://www.thewalters.org/ns/mss-manifest/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mix="http://www.loc.gov/mix/v20">
+  <shelfmark>W.2</shelfmark>
+  <chapters>
+    <chapter n="1">
+      <locus from="1r" to="9v">1r - 9v</locus>
+      <title type="work">List of Pericopes</title>
+      <rubric xml:lang="lat">Capitula lectionum evangelii anni circuli ad missas</rubric>
+      <incipit xml:lang="lat">In vigilia nativitatis</incipit>
+      <note type="contents">Pericopes for the liturgical year</note>
+      <note type="text">First folio severely damaged and repaired; text was transcribed onto front flyleaf iv</note>
+    </chapter>
+    <chapter n="2">
+      <locus from="10r" to="11v">10r - 11v</locus>
+      <title type="work">Prologues by Eusebius and Jerome</title>
+      <rubric xml:lang="lat">Incipit prologus Eusebii</rubric>
+      <incipit xml:lang="lat">Eusebius carpiano patri (Eusebius) Beatissima papae damaso (Jerome)</incipit>
+      <note type="contents">Fols. 10r-v: Eusebius to Carpianus; fols. 10v-11v: Jerome letter to Pope Damasus</note>
+      <author>Eusebius</author>
+      <author>Jerome</author>
+    </chapter>
+    <chapter n="3">
+      <locus from="12r" to="17v">12r - 17v</locus>
+      <title type="work">Eusebian canon tables</title>
+      <note type="contents">Canons are of shorter Vulgate set; numbers grouped in sets of six</note>
+      <author>Eusebius</author>
+    </chapter>
+    <chapter n="4">
+      <locus from="18r" to="147v">18r - 147v</locus>
+      <title type="work">Gospels</title>
+      <rubric xml:lang="lat">Incipit Brevis Evangelii secundum Matheum</rubric>
+      <incipit xml:lang="lat">De generatione christi</incipit>
+      <note type="contents">Fols. 18r-19r: 74 chapter list for Matthew; fols. 20r-53r: Gospel of Matthew; fols. 53v-54r: Prologue to Mark; fols. 54r-55r: 13 chapter list for Mark; fols. 56r-80v: Gospel of Mark; fols. 80v-81r: Prologue to Luke; fols. 81r-85r: 20 chapter list for Luke; fol. 86r-120v: Gospel of Luke, with Luke 3.8-6.33 missing due to removed bifolia between fols. 90 and 91; fols. 120v-121r: Prologue to John; fol. 121r-v: 14 chapter list for John; fols. 123r-147v: Gospel of John</note>
+    </chapter>
+  </chapters>
+</manuscript>
